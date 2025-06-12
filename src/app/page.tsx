@@ -9,7 +9,7 @@ const workItems: Item[] = [
     role: "Software Engineer Intern",
     period: "sep 2024 - may 2025",
     description:
-      "building a decentralized identity protocol as part of ENS labs",
+      "Optimizing and maintaining the company's internal platforms and products' algorithms, focusing on performance improvements, new features, and scalability.",
     href: "https://www.axon-networks.com/",
   },
 ]

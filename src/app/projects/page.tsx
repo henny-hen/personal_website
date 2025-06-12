@@ -79,7 +79,7 @@ export default function ProjectsPage() {
 
       <p className="text-gray-400 mb-12 leading-relaxed">
         here are some of the projects i&apos;ve worked on. i love building tools
-        that make developers&apos; lives easier and exploring new technologies
+        that make people&apos; lives easier and exploring new technologies
         along the way.
       </p>
 

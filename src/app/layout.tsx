@@ -16,15 +16,6 @@ export const metadata: Metadata = {
     template: "%s | Henny Sánchez",
   },
   description: "Developer, TCG player and maker of things.",
-  openGraph: {
-    title: "Henny Sánchez",
-    description: "Developer, TCG player and maker of things.",
-    url: "https://www.nexxel.dev",
-    siteName: "Henny Sánchez",
-    locale: "en_US",
-    type: "website",
-    images: ["https://www.nexxel.dev/og/home"],
-  },
   robots: {
     index: true,
     follow: true,

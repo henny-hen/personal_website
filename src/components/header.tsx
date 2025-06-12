@@ -23,7 +23,7 @@ export function Header() {
         i&apos;m a 23 y/o cs undergrad student. I love building things, designing and
         solving problems. I enjoy language design, theoretical computer science
         and I live on the terminal. if i&apos;m not coding, i&apos;m probably
-        doing playing trading card games, listening to podcasts or obsessing over keychains.
+        playing trading card games, listening to podcasts or obsessing over keychains.
       </p>
     </header>
   )

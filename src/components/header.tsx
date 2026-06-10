@@ -14,9 +14,9 @@ export function Header() {
           <MapPin className="w-4 h-4" />
           Madrid, Spain
         </div>
-        <div className="flex items-center gap-2">
-          <Building2 className="w-4 h-4" />
-          Software Engineer Intern @ Axon Networks
+        <div className="flex items-center gap-2 text-gray-300">
+          <Megaphone className="w-4 h-4" />
+          Looking for a job!!
         </div>
       </div>
       <p className="leading-relaxed animate-fade-in-up">

@@ -1,5 +1,5 @@
 import { ScrambleText } from "@/components/scramble-text"
-import { MapPin, Building2 } from "lucide-react"
+import { MapPin, Building2, Megaphone } from "lucide-react"
 
 export function Header() {
   return (
@@ -14,7 +14,7 @@ export function Header() {
           <MapPin className="w-4 h-4" />
           Madrid, Spain
         </div>
-        <div className="flex items-center gap-2 text-gray-300">
+        <div className="font-bold flex items-center gap-2 text-green-400">
           <Megaphone className="w-4 h-4" />
           Looking for a job!!
         </div>

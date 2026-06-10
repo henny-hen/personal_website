@@ -19,8 +19,8 @@ export function Header() {
           Looking for a job!!
         </div>
       </div>
-      <p className="leading-relaxed animate-fade-in-up">
-        i&apos;m a 24 y/o studying the European Master's in Software Engineering. I love building and solving for the people. I enjoy language design. if i&apos;m not coding, i&apos;m probably
+      <p className="leading-relaxed animate-fade-in-up text-white">
+        I&apos;m a 24 y/o studying the European Master's in Software Engineering. I love building and solving for the people. I enjoy language design. If I&apos;m not coding, I&apos;m probably
         playing trading card games, listening to podcasts or helping my community in my university.
       </p>
     </header>

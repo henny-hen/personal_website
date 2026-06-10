@@ -20,10 +20,8 @@ export function Header() {
         </div>
       </div>
       <p className="leading-relaxed animate-fade-in-up">
-        i&apos;m a 23 y/o cs undergrad student. I love building things, designing and
-        solving problems. I enjoy language design, theoretical computer science
-        and I live on the terminal. if i&apos;m not coding, i&apos;m probably
-        playing trading card games, listening to podcasts or obsessing over keychains.
+        i&apos;m a 24 y/o studying the European Master's in Software Engineering. I love building and solving for the people. I enjoy language design. if i&apos;m not coding, i&apos;m probably
+        playing trading card games, listening to podcasts or helping my community in my university.
       </p>
     </header>
   )

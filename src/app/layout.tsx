@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     default: "Henny Sánchez",
     template: "%s | Henny Sánchez",
   },
-  description: "Developer, TCG player and maker of things.",
+  description: "Developer, TCG player and contributor in life.",
   robots: {
     index: true,
     follow: true,
